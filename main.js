@@ -1,7 +1,7 @@
 //ejercicio
 
 let diaPromocion = prompt(
-  "ingrsa el dia en que te gustaria conocer nuestras promociones 'ingresa cancelar si prefieres continuar'"
+  "ingresa el dia en que te gustaria conocer nuestras promociones 'ingresa cancelar si prefieres continuar'"
 );
 while (diaPromocion != "cancelar") {
   switch (diaPromocion) {
